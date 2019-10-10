@@ -1,0 +1,16 @@
+{
+  "name": "goip",
+  "version": "1.0.0",
+  "description": "GOIP Communication System",
+  "main": "sms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Encke",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "querystring": "^0.2.0"
+  }
+}
