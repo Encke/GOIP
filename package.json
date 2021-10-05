@@ -12,5 +12,9 @@
     "http": "0.0.0",
     "https": "^1.0.0",
     "querystring": "^0.2.0"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "semi": false
   }
 }
